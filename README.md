@@ -15,7 +15,7 @@ It is a weather dashboard developed using the (open weather map) results.It will
 - OpenWeatherMap API(for API  call)
 
 # Instructions to use and get benifit from dashboard
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/AryanAkshayHubballi/Weather-dashboard.git`
 2. Navigate to the project directory: `cd weather-dashboard`
 3. Open `index.html` in a web browser(any) 
 4. It allows user to enter the name of the city
