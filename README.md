@@ -1,14 +1,28 @@
-# Weather Dashboard
+## Weather Dashboard ##
 
-## Overview
-This is a weather dashboard application that allows users to search for current weather and a 5-day forecast for a specified city. It uses the OpenWeatherMap API to fetch weather data and displays it in a user-friendly manner.
+# project overview
+It is a weather dashboard developed using the (open weather map) results.It will allows the user to enter the name of the city to fench the weather report.It also includs the 5 day forecast for the future plan.
 
-## Features
-- Search for current weather by city name
-- Display temperature, humidity, wind speed, weather description, sunrise, and sunset times
-- Show 5-day weather forecast
+# Features of dashboard
+- Search for weather by city name
+- Display current temperature, humidity, wind speed, and weather description
+- Show a 5-day weather forecast with daily highs and lows, and weather conditions
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-dashboard.git
+# Technologies Used to build
+- HTML
+- CSS
+- JavaScript(js)
+- OpenWeatherMap API(for API  call)
+
+# Instructions to use and get benifit from dashboard
+1. Clone the repository: `git clone <repository_url>`
+2. Navigate to the project directory: `cd weather-dashboard`
+3. Open `index.html` in a web browser(any) 
+4. It allows user to enter the name of the city
+5. navigate to 'GET WEATHER' then dashboard will display wewther report(included with the 5 day fore cast)
+
+# Hint
+(Please use the right spell of the city to ensure the proper result)
+
+# Developed By
+ARYAN AKSHAY HUBBALLI
